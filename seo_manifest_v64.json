@@ -1,0 +1,22 @@
+{
+  "version": "v64_10_point_seo_complete",
+  "title_tags": "present/optimized",
+  "meta_descriptions": "present/optimized",
+  "heading_tags": "checked",
+  "target_keywords": "included in titles/meta/H1/body/category/product copy",
+  "image_alt_tags": "present",
+  "publisher_schema": "Organization publisher schema added",
+  "custom_404": "404.html added",
+  "structured_data": "Product, Offer, Breadcrumb, ItemList, Organization, FAQ where relevant",
+  "speed": "lazy loading, decoding async, preconnect/dns-prefetch, cache headers file",
+  "content_creation": "static crawlable category/product/recent-installation/info pages",
+  "html_files": 264,
+  "image_tags": 659,
+  "missing_alt": 0,
+  "missing_loading": 0,
+  "missing_title_attributes": 0,
+  "missing_title_tag_pages": 0,
+  "missing_meta_description_pages": 0,
+  "missing_h1_pages": 0,
+  "schema_pages": 264
+}

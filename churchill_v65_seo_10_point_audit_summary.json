@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "html_files": 269,
+    "product_html_files": 244,
+    "memorial_range_html_files": 14,
+    "missing_title_tags": 0,
+    "missing_meta_descriptions": 0,
+    "missing_h1_tags": 0,
+    "missing_alt_tags": 0,
+    "missing_image_loading": 0,
+    "missing_structured_data_pages": 0,
+    "missing_canonical_tags": 0,
+    "product_slugs_with_headstone_or_memorial": 244,
+    "total_product_slugs": 244
+  },
+  "schema_types": {
+    "ItemList": 15,
+    "Organization": 268,
+    "FAQPage": 5,
+    "LocalBusiness": 1,
+    "WebSite": 1,
+    "WebPage": 1,
+    "Product": 244,
+    "BreadcrumbList": 244
+  },
+  "bad_files": {
+    "missing_title_tags": [],
+    "missing_meta_descriptions": [],
+    "missing_h1_tags": [],
+    "missing_alt_tags": [],
+    "missing_image_loading": [],
+    "missing_structured_data_pages": [],
+    "missing_canonical_tags": []
+  }
+}

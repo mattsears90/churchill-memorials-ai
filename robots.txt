@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://churchillmemorials.co.uk/sitemap.xml
