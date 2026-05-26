@@ -24,3 +24,4 @@ Do not upload the zip itself unless GitHub is just being used for storage.
 
 Important:
 If you already uploaded older product/ or memorial-range/ folders, delete those two old folders first and then upload the new folders from this package.
+
