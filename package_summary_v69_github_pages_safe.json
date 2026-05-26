@@ -1,0 +1,15 @@
+{
+  "version": "v69_github_pages_safe",
+  "changed": "Internal links, canonicals, sitemap and robots updated for GitHub Pages project URL.",
+  "project_url": "https://mattsears90.github.io/churchill-memorials-ai/",
+  "html_files": 269,
+  "bad_root_internal_links_remaining": 2,
+  "missing": {
+    "title": 0,
+    "meta": 0,
+    "h1": 0,
+    "alt": 0,
+    "loading": 0
+  },
+  "note": "Use this package for the GitHub Pages preview URL. For the final custom domain, canonicals/sitemap should be changed back to churchillmemorials.co.uk."
+}
